@@ -14,6 +14,7 @@ title: Vision
     | Mulkey Ridge Trail to Bald Hill Farm | No parking, access off Wynoochee Drive |
     | Crestmont Land Trust | No parking, accessed thru Fitton Green |
     | McDonald Research Forest | Oak Creek Road parking |
+
 <br/>
 - The use by ever increasing numbers comes with multiple safety issues, and negative impacts to the environment and hosting residents.
     - Safety concerns range from unsafe walking/cycling to fire response & evac
