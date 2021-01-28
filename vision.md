@@ -15,7 +15,6 @@ title: Vision
     | Crestmont Land Trust | No parking, accessed thru Fitton Green |
     | McDonald Research Forest | Oak Creek Road parking |
 
-
 - The use by ever increasing numbers comes with multiple safety issues, and negative impacts to the environment and hosting residents.
     - Safety concerns range from unsafe walking/cycling to fire response & evac
     - Environmental issues include road-kill, out of parking area off-road damage, unnecessary CO2, and  increased fire risk e.g., hot cars in grass, cigarettes, etc.
