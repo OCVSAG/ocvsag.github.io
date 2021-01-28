@@ -2,6 +2,7 @@
 layout: post
 title: Letter to Benton County Board of Commissioners
 subtitle: Fitton Green Natural Area
+thumbnail-img: /assets/img/bentoncounty.jpg
 tags: [benton,county,letters]
 ---
 
