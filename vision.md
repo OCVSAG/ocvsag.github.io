@@ -6,8 +6,10 @@ title: Vision
 # Situational Awareness
 
 - Oak Creek Valley’s recreation areas, are a desirable destination of several natural areas accessed by the public Oak Creek Road and its feeder neighboring roads.
+    | Recreation Area | Access |
+    | --------------- | ------ |
     | Fitton Green Natural Area | Panorama and Cardwell Hill Road parking |
-    | Bald Hill Natural Area | Oak Creek Road |
+    | Bald Hill Natural Area | Oak Creek Road, fairgrounds, and Reservoir Road parking |
     | Mulkey Ridge Trail to Bald Hill Farm | No parking, access off Wynoochee Drive |
     | Crestmont Land Trust | No parking, accessed thru Fitton Green |
     | McDonald Research Forest | Oak Creek Road parking |
