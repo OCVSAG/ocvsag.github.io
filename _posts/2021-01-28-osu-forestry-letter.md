@@ -2,7 +2,7 @@
 layout: post
 title: Letter to OSU College of Forestry
 subtitle: Request from Citizens in Oak Creek Valley
-tags: [OSU,letters]
+tags: [osu,letters]
 ---
 
 To:  Thomas H. DeLuca; OSU College of Forestry, Dean
