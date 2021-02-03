@@ -14,8 +14,7 @@ author: OCVSAG
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Documents:
-    - Fitton Green Management Plan: "/assets/pubdocs/benton/fittongreenplan.pdf"
+  Documents: "docshare"
   Vision: "vision"
   FAQ: "faq"
   # Resources:
