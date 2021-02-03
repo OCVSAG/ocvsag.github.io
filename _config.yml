@@ -15,8 +15,7 @@ author: OCVSAG
 
 navbar-links:
   Documents:
-    - Benton County:
-      - Fitton Green Management Plan: "/assets/pubdocs/benton/fittongreenplan.pdf"
+    - Fitton Green Management Plan: "/assets/pubdocs/benton/fittongreenplan.pdf"
   Vision: "vision"
   FAQ: "faq"
   # Resources:
