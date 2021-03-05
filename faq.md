@@ -82,7 +82,7 @@ Absolutely not, nor is OCVSAG seeking to reduce individuated parking where desig
 
 Crestmont Land Trust trails was an agreement between Benton County, Greenbelt Land Trust and Crestmont Land Trust.
 
-Background:
+Background:  
 [https://www.gazettetimes.com/news/local/making-connections-new-path-links-trail-networks-in-major-expansion/article_5d20f465-138a-57db-b5ef-93a17de69bff.html](https://www.gazettetimes.com/news/local/making-connections-new-path-links-trail-networks-in-major-expansion/article_5d20f465-138a-57db-b5ef-93a17de69bff.html)  
 [https://www.corvallisadvocate.com/2018/oak-restoration-at-crestmont-land-trust/](https://www.corvallisadvocate.com/2018/oak-restoration-at-crestmont-land-trust/)
 
