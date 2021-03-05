@@ -5,18 +5,18 @@ title: FAQ
 # FAQ
 
 ## Outline
-[About OCVSAG](#about-ocvsag)
-[Problems and concerns captured as feedback within Oak Creek valley](#problems-and-concerns-captured-as-feedback-within-oak-creek-valley-trail-access)
-[Trail access](#trail-access)
-[Natural Areas and Trails Management responsible entities](#natural-areas-and-trails-management-responsible-entities)
-[Safety Issues](#safety-issues)
-[Fire: Q&A for Oak Creek valley](#fire-q&a-for-oak-creek-valley)
-[Natural Areas, Parks, and Management Plans](#natural-areas,-parks,-and-management-plans)
-[Chinook Road District/ road maintenance](#chinook-road-district/-road-maintenance)
-[Litter, Fitton Green group/commercial access, and localized questions](#litter,-fitton-green-group/commercial-access,-and-localized-questions)
-[How to learn more from Benton County](#how-to-learn-more-from-benton-county)
-[Similar philosophies to OCVSAG from others](#similar-philosophies-to-ocvsag-from-others)
-[How to ask your question](#how-to-ask-your-question)
+[About OCVSAG](#about-ocvsag)  
+[Problems and concerns captured as feedback within Oak Creek valley](#problems-and-concerns-captured-as-feedback-within-oak-creek-valley-trail-access)  
+[Trail access](#trail-access)  
+[Natural Areas and Trails Management responsible entities](#natural-areas-and-trails-management-responsible-entities)  
+[Safety Issues](#safety-issues)  
+[Fire: Q&A for Oak Creek valley](#fire-q&a-for-oak-creek-valley)  
+[Natural Areas, Parks, and Management Plans](#natural-areas,-parks,-and-management-plans)  
+[Chinook Road District/ road maintenance](#chinook-road-district/-road-maintenance)  
+[Litter, Fitton Green group/commercial access, and localized questions](#litter,-fitton-green-group/commercial-access,-and-localized-questions)  
+[How to learn more from Benton County](#how-to-learn-more-from-benton-county)  
+[Similar philosophies to OCVSAG from others](#similar-philosophies-to-ocvsag-from-others)  
+[How to ask your question](#how-to-ask-your-question)  
 
 ## About OCVSAG
 
@@ -78,12 +78,12 @@ In short: Access at the trailheads have exceeded their natural carrying capacity
 
 Absolutely not, nor is OCVSAG seeking to reduce individuated parking where designated parking currently exists. The trails and Natural Areas are an important part of our community. OCVSAG seeks win-win solutions with the stakeholders to manage to the natural carrying capacity of the sites and seeks to increase the opportunities for safe multi-mode public access.
 
-### 
-Of all the trails, Crestmont Land Trust trails are new to me. As a nearby neighbor affected by the increasing traffic why didn’t I hear about the new trails sooner?
+### Of all the trails, Crestmont Land Trust trails are new to me. As a nearby neighbor affected by the increasing traffic why didn’t I hear about the new trails sooner?
+
 Crestmont Land Trust trails was an agreement between Benton County, Greenbelt Land Trust and Crestmont Land Trust.
 
 Background:
-[https://www.gazettetimes.com/news/local/making-connections-new-path-links-trail-networks-in-major-expansion/article_5d20f465-138a-57db-b5ef-93a17de69bff.html](https://www.gazettetimes.com/news/local/making-connections-new-path-links-trail-networks-in-major-expansion/article_5d20f465-138a-57db-b5ef-93a17de69bff.html)
+[https://www.gazettetimes.com/news/local/making-connections-new-path-links-trail-networks-in-major-expansion/article_5d20f465-138a-57db-b5ef-93a17de69bff.html](https://www.gazettetimes.com/news/local/making-connections-new-path-links-trail-networks-in-major-expansion/article_5d20f465-138a-57db-b5ef-93a17de69bff.html)  
 [https://www.corvallisadvocate.com/2018/oak-restoration-at-crestmont-land-trust/](https://www.corvallisadvocate.com/2018/oak-restoration-at-crestmont-land-trust/)
 
 ## Natural Areas and Trails Management responsible entities
@@ -112,11 +112,11 @@ Great! just respond via email to [hello@ocvsag.org](mailto:hello@ocvsag.org)
 
 Structures and homes in Oak Creek valley are under the [Corvallis Rural Fire Protection District](http://corvallisrfpd.com/) which contracts for the valley to the City of Corvallis Fire Department. However, since Oak Creek Valley is an example of [WUI firefighting](https://www.oregon.gov/odf/fire/Pages/urbaninterface.aspx) (Wildland/Urban Interface) there is a unique sequence of events that occurs when someone dials 911 that will automatically involve the West Oregon District of the [Oregon Department of Forestry (ODF)](https://www.oregon.gov/odf/Pages/index.aspx). The city firefighters’ expertise and equipment arsenal are structural fires, and ODF’s is in wildland fire that may come with a range of equipment from bulldozers to airplanes with fire retardant and the men and women of specialized wildland fire training.
 
-An example of how it works: At home you have a fire and Call 911 >>> dispatch receives call >>> dispatch directs call appropriately based on GIS information for location >>>> call received by Corvallis FD, and texts go to ODF >>>> Corvallis FD will be enroute first, and a Corvallis FD Battalion chief will be riding along and monitoring the situation and be in communication with ODF. Simultaneously, the dispatch continues to work with ODF dispatch. Corvallis FD, and then ODF will show up at the fire site unless the Battalion Chief has specific knowledge to not have ODF respond.
+An example of how it works: At home you have a fire and Call 911 >>>> dispatch receives call >>>> dispatch directs call appropriately based on GIS information for location >>>> call received by Corvallis FD, and texts go to ODF >>>> Corvallis FD will be enroute first, and a Corvallis FD Battalion chief will be riding along and monitoring the situation and be in communication with ODF. Simultaneously, the dispatch continues to work with ODF dispatch. Corvallis FD, and then ODF will show up at the fire site unless the Battalion Chief has specific knowledge to not have ODF respond.
 
 ODF has feeds from satellites for large hot spots, comparative landscape visual equipment that scans for smoke and has roving fire patrols that are literally traveling routes throughout forested and WUI lands looking for problems. In the area of Oak Creek and immediately around it there are no manned lookout towers. [ODF has shared that most wildland fires are human caused.](https://apps.odf.oregon.gov/DIVISIONS/protection/fire_protection/fires/SeasonFireStats.asp) In our extended general area, there have been two lightning strikes in twenty-years. Careful humans following sound protocol will prevent most fires e.g., not parking off road in dry vegetation, not throwing out cigarettes and ensuring any outside fire is cold to a bare-handed touch before ever leaving it alone.
 
-Another example: If a hiker atop Fitton Green sees smoke/fire in what they think is the Crestmont Land Trust trails system and Call 911>>>> dispatch receives call >>> dispatch directs call appropriately based on GIS information for location >>>> Texts go to ODF, and dispatches for both ODF & Corvallis FD informed >>>> ODF would be the lead responder. Being a WUI area, unless the caller is very clear of their location relative to the fire threat it is likely that both Corvallis FD and ODF would need to respond.
+Another example: If a hiker atop Fitton Green sees smoke/fire in what they think is the Crestmont Land Trust trails system and Call 911 >>>> dispatch receives call >>>> dispatch directs call appropriately based on GIS information for location >>>> Texts go to ODF, and dispatches for both ODF & Corvallis FD informed >>>> ODF would be the lead responder. Being a WUI area, unless the caller is very clear of their location relative to the fire threat it is likely that both Corvallis FD and ODF would need to respond.
 
 Currently, Benton County is sponsoring an update to their [2016 adopted Community Wildfire Protection Plan](https://www.co.benton.or.us/sites/default/files/fileattachments/community_development/page/2001/final_cwpp_update_2016.pdf) which has a great deal of information.
 
@@ -200,10 +200,12 @@ The county passively informs the public in most cases. You would need to scour t
 ## Similar philosophies to OCVSAG from others
 
 ### I’m happy to know you’re working with many different groups that work with or support recreation on natural and forested lands. Are there any examples of similarities of mind set?
+
 Yes, OSU’s College of Forestry published the 2018 Research Forests Trailhead Alternative Transportation Strategy that found the need to “Develop and implement a strategy to encourage alternative methods of transportation to trailheads to reduce vehicular traffic.” Their stated goals were “Improve non- motorized access for local community members” and “Address issues associated with visitor’s vehicular use on access roads and at trailheads”. This published strategy concluded with the plea ““We need your help in setting a cultural standard for getting visitors to trailheads with minimal vehicular use to protect free and open access to the forest.” The OSU College of Forestry efforts were driven by understanding “An increase in recreation traffic has put a lot of pressure on the access roads and parking areas at OSU [and other site’s] trailheads. We expect recreation use to continue increasing into the future \[...\]”.
 [https://cf.forestry.oregonstate.edu/sites/default/files/Alt_trans_strategy.pdf](https://cf.forestry.oregonstate.edu/sites/default/files/Alt_trans_strategy.pdf)
 
 ### Has OCVSAG communicated with all of the specific parties mentioned in the FAQs?
+
 Yes
 
 ## How to ask your question
