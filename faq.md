@@ -146,13 +146,11 @@ Natural areas do not have park infrastructure like playgrounds, picnic tables, e
 
 ### Is it “legal” to hike off the designated trail at Fitton Green? I noticed it looks like people are walking off the trail at Throop Loop, right next to the sign indicating habitat restoration.
 
-Visitors should not be off trail- including, dogs, hikers, cyclists, photographers, picknickers’ etc. For example, the top of Fitton Green is a very fragile and special ecological area of upland prairie, and there are several sensitive riparian zones crossed by the trail system. County trail maps are available online and at the kiosks at trail entrances.
-[https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2572/mulkey_trail_complex_2018_final_lr.pdf](https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2572/mulkey_trail_complex_2018_final_lr.pdf)
+Visitors should not be off trail- including, dogs, hikers, cyclists, photographers, picknickers’ etc. For example, the top of Fitton Green is a very fragile and special ecological area of upland prairie, and there are several sensitive riparian zones crossed by the trail system. County trail maps are available online and at the kiosks at trail entrances. [https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2572/mulkey_trail_complex_2018_final_lr.pdf](https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2572/mulkey_trail_complex_2018_final_lr.pdf)
 
 ### Does the County have a management plan for Fitton Green?
 
-Yes, the management plan was published in June 2000.
-[https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2391/fittongreenplan.pdf](https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2391/fittongreenplan.pdf)
+Yes, the management plan was published in June 2000. [https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2391/fittongreenplan.pdf](https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2391/fittongreenplan.pdf)
 
 ## Chinook Road District/ road maintenance
 
