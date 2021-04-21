@@ -18,8 +18,8 @@ navbar-links:
   Vision: "vision"
   FAQ: "faq"
   Letters:
-    - Benton County: "_posts/2021-01-24-county-letter"
-    - OSU Forestry: "_posts/2021-01-28-osu-forestry-letter"
+    - Benton County: "2021-01-24-county-letter"
+    - OSU Forestry: "2021-01-28-osu-forestry-letter"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
