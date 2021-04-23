@@ -4,6 +4,7 @@ title: FAQ
 ---
 # FAQ
 
+---
 ## Outline
 [About OCVSAG](#about-ocvsag)  
 [Problems and concerns captured as feedback within Oak Creek valley](#problems-and-concerns-captured-as-feedback-within-oak-creek-valley)  
@@ -19,7 +20,7 @@ title: FAQ
 [How to ask your question](#how-to-ask-your-question)  
 
 ## About OCVSAG
-
+---
 ### What is OCVSAG?
 
 Oak Creek Valley Safety Action Group was formed by a group of residents living within the Oak Creek valley of Benton County. The team formed to find solutions to problems that affect either explicitly, or implicitly all residents and visitors to the valley from 53rd/Walnut westward along Oak Creek Drive and its feeder roads. Many of the recorded concerns are driven by the continuously increasing volume of vehicular traffic reaching the area’s trail systems. OCVSAG seeks win-win solutions to purposefully acknowledge desired access while managing to mitigate concerns. Some areas or neighborhoods are less impacted than others.
@@ -45,7 +46,7 @@ Yes, and beyond, please just respond via email to [hello@ocvsag.org](mailto:hell
 Please Include your home address as it aids OCVSAG in defining the support and helps to include updates on issues that may be most relevant to you.
 
 ## Problems and concerns captured as feedback within Oak Creek valley
-
+---
 ### What are the issues OCVSAG has identified so far?
 
 The Oak Creek valley’s network of big outdoor spaces and trails have become increasingly desirable destinations, reached by specific neighborhood roads. The trails include Fitton Green Natural Area, Bald Hill Natural Area, Mulkey Ridge Trail, Crestmont Land Trust and McDonald Research Forest.
@@ -73,7 +74,7 @@ Yes, there is an increase in use from Covid because people want and need nature 
 In short: Access at the trailheads have exceeded their natural carrying capacity and will continue to be further pressured into the future.
 
 ## Trail access
-
+---
 ### Is OCVSAG promoting the closure of any trails in the trail system?
 
 Absolutely not, nor is OCVSAG seeking to reduce individuated parking where designated parking currently exists. The trails and Natural Areas are an important part of our community. OCVSAG seeks win-win solutions with the stakeholders to manage to the natural carrying capacity of the sites and seeks to increase the opportunities for safe multi-mode public access.
@@ -87,19 +88,19 @@ Background:
 [https://www.corvallisadvocate.com/2018/oak-restoration-at-crestmont-land-trust/](https://www.corvallisadvocate.com/2018/oak-restoration-at-crestmont-land-trust/)
 
 ## Natural Areas and Trails Management responsible entities
-
+---
 ### I’ve heard that the different trails in the Oak Creek valley are managed by different entities. It’s confusing!
 
 Yes, it can be confusing. Benton County is responsible for managing Fitton Green whose lands were originallyobtainedbyGreenbeltLandTrust. [Fitton Green's management planpage 25 published in 2000](/assets/pubdocs/benton/fittongreenplan.pdf) named three trailhead parking areas: one on Panorama and one at each end of Cardwell Hill Road. Bald Hill Park, and parking for those trails off Oak Creek Drive, is managed by the City of Corvallis. McDonald Forest and the parking at the end of Oak Creek Road is managed by OSU’s College of Forestry. Bald Hill Farm (Green Belt Land Trust managed) which has an access through the Mulkey Ridge Trail connector (which has no parking) and easement managed by Benton County is an example of why it can be confusing. Large tracts of Forest Conservation property and the Crestmont Land Trust are privately held and have no parking relying on other site’s parking or nearby neighborhoods. Law enforcement is Benton County Sheriff’s Office except for Bald Hill, which is primarily Corvallis Police Department.
 
 ## Safety Issues
-
+---
 ### Why does OCVSAG seek to address the safety issues and environmental issues at multiple primary trails accessible through Oak Creek valley; Bald Hill, McDonald Forest, Fitton Green, Mulkey Ridge, and Crestmont Land Trust?
 
 Safety affects everyone that lives or recreates along Oak Creek Drive and the valley it travels through. Being a valley with access to multiple sites in proximity, many of which are interconnected, allows the opportunity to efficiently deliver solutions to problems that all face. Additionally, recreationists will be better informed if the protocol is similar from site to site. They will benefit by fire and safety protocols as well as with searching for parking with a comprehensive “know before you go” strategy, so it makes sense to seek solutions for the valley as a whole system.
 
 ## Fire: Q&A for Oak Creek valley
-
+---
 ### During 2020’s extremely high fire conditions, the different trails were closed at different times. That does not make sense, what’s up with that? And who is responsible for making sure the trails aren’t being used when they are closed?
 
 This is an example of why Oak Creek valley needs to be looked at as a continuous system with consistent protocols. Oak Creek valley is managed by different entities so there are multiple decision makers, Benton County, City of Corvallis, OSU College of Forestry, OSU College of Agriculture, Starker Forests, Crestmont Land Trust, Greenbelt Land Trust, Oregon Department of Forestry, Corvallis Rural Fire Protection District, Corvallis Fire Department, City of Corvallis. Volunteer organizations like OCVC (Oak Creek Valley Community, which is engaged in developing fire evacuation routes) and OCVSAG are advocating for an agreement that all decision makers use the same process to determine when trailclosures for fire hazard are appropriate, for example using NOAA weather Red Flag Warnings as a specific closure point. This work is in discussion.
@@ -137,7 +138,7 @@ Not in Fitton Green, Crestmont Land Trust or Greenbelt Land Trust properties. Ne
 Oregon law forbids the possession, use, or sale of fireworks that fly, explode, or travel more than six feet on the ground or 12 inches in the air. Bottle rockets, Roman candles, and firecrackers are illegal in Oregon. [www.co.benton.or.us/sheriff/page/july-4th-tips-safe-holiday](www.co.benton.or.us/sheriff/page/july-4th-tips-safe-holiday)
 
 ## Natural Areas, Parks, and Management Plans
-
+---
 ### What is the difference between a County Park and the County’s Natural Areas like Fitton Green? I’ve seen Fitton Green referred to as a Park but thought a Natural Area was different.
 
 Officially Fitton Green Natural Area is not a park. It is not clear at this point why sometimes Fitton Green gets referred to as a “park”, since by its own definition and management plan it is not. Signage recently installed has been asked to be updated to correctly reflect that is a natural area and not a park.
@@ -153,7 +154,7 @@ Visitors should not be off trail- including, dogs, hikers, cyclists, photographe
 Yes, the management plan was published in June 2000. [https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2391/fittongreenplan.pdf](https://www.co.benton.or.us/sites/default/files/fileattachments/natural_areas_and_parks/page/2391/fittongreenplan.pdf)
 
 ## Chinook Road District/ road maintenance
-
+---
 ### Some of the problems described are occurring at Fitton Green. What’s the Chinook Road District’s (CRD) involvement with Fitton Green, Mulkey Ridge trail connector or OCVSAG?
 
 CRD has ties and interests due to any traffic on its roads for which it has maintenance responsibility for whether it be its residents, or recreational traffic.
@@ -168,7 +169,7 @@ There are inter-governmental agreements made between the CRD board and country r
 No. Nor were they designed to support additional traffic for the newer Crestmont Land Trust trails and the Mulkey Creek Connector trail.
 
 ## Litter, Fitton Green group/commercial access, and localized questions
-
+---
 ### People park on Wynoochee at the Mulkey Ridge trail connector trailhead where there is a turn out. Is this trailhead parking?
 
 No, there is not supposed to be any parking on Wynoochee to access any trail. The “turn-out” was a gravel storage location for road work and initial trail building. It is not for parking.
@@ -190,13 +191,13 @@ No, but we advocate that private groups can get permission from the land managem
 Yes, but with caveats. There is no off-trail access especially at the top of Fitton Green. Permit processes have been discussed with Benton County representatives and given as feedback to the new Forest Stewardship plan. This may require specialized conditional use permits. Groups should carpool or take a van and never park outside of the approved parking spaces.
 
 ## How to learn more from Benton County
-
+---
 ### How do I get more info on what the County is up to with regards to parks and Natural Areas such as Beazell Memorial Forest, Fitton Green, etc?
 
 The county passively informs the public in most cases. You would need to scour the [Benton County Parks and Natural Areas and Parks website](https://www.co.benton.or.us/parks) for updates or occasionally call their representatives as listed in contacts. On rare occasions the county may publish something in the public notices section of the Gazette Times or send USPS mail to “affected” land owners or agencies of an impending change. The latter is curtailed where possible due to cost. This is a recent example from the Forest Stewardship plan for public notice. [https://www.co.benton.or.us/parks/page/forest-resource-stewardship-plan-update-public-outreach](https://www.co.benton.or.us/parks/page/forest-resource-stewardship-plan-update-public-outreach)
 
 ## Similar philosophies to OCVSAG from others
-
+---
 ### I’m happy to know you’re working with many different groups that work with or support recreation on natural and forested lands. Are there any examples of similarities of mind set?
 
 Yes, OSU’s College of Forestry published the 2018 Research Forests Trailhead Alternative Transportation Strategy that found the need to “Develop and implement a strategy to encourage alternative methods of transportation to trailheads to reduce vehicular traffic.” Their stated goals were “Improve non- motorized access for local community members” and “Address issues associated with visitor’s vehicular use on access roads and at trailheads”. This published strategy concluded with the plea ““We need your help in setting a cultural standard for getting visitors to trailheads with minimal vehicular use to protect free and open access to the forest.” The OSU College of Forestry efforts were driven by understanding “An increase in recreation traffic has put a lot of pressure on the access roads and parking areas at OSU [and other site’s] trailheads. We expect recreation use to continue increasing into the future \[...\]”.
@@ -207,7 +208,7 @@ Yes, OSU’s College of Forestry published the 2018 Research Forests Trailhead A
 Yes
 
 ## How to ask your question
-
+---
 ### I have a question that OCVSAG may be able answer, how can I ask it?
 
 Please email your question to [hello@ocvsag.org](mailto:hello@ocvsag.org). Thanks for your interest.
