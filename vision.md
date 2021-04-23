@@ -6,6 +6,8 @@ title: Vision
 ### <span style="color:#006600">Oak Creek Valley Safety Action Group (OCVSAG)</span> will take a positive stance with stakeholders by offering solutions to cited problems, supports trailhead multi-mode access, and will work to have implemented managed predictable access protocol for decades to come.
 ### Safety is paramount. It takes many forms for residents and visiting recreationists including planning for fire evacuation in an emergency.
 
+---
+
 # Showcase Opportunity
 *Klaus Puettmann, OCVSAG core team member’s statement:*
 
